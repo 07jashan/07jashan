@@ -1,0 +1,5 @@
+- 👋 Hi, I’m  Jashanpreet Kaur
+- 👀 I’m interested computer programming as I have knowledge in programming languages like Python and SQL.
+- 🌱 I’m currently learning machine learning analyst program in Norquest college edmonton.
+- 💞️ I’m looking to collaborate on projects related to machine learning
+- 📫 Here is my linkdin profile: https://www.linkedin.com/in/jashanpreet-kaur-4ab162254
